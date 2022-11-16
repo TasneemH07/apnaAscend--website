@@ -1,0 +1,38 @@
+.mainDiv{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.headText1{
+    font-family: sans-serif;
+}
+.para1{
+    margin-top: -10px;
+    font-family: sans-serif;
+    width: 600px;
+    color: #b9b9b9;
+    font-size: 18px;
+}
+.img{
+    margin-top: 10px;
+}
+.para2{
+    margin-top: 30px;
+    font-family: sans-serif;
+    color:black;
+    background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+    border-radius: 5px;
+    width:290px;
+    height: 40px;
+    padding: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+.para3{
+    margin-top: 1px;
+    font-family: sans-serif;
+
+}

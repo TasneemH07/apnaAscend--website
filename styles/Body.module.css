@@ -1,0 +1,198 @@
+.main{
+    background-color: #130421;
+    width:1436px;
+    height:1200px;
+    margin-top: -150px;
+  }
+
+.processText1{
+    margin-top: 200px;
+    font-weight: 500px;
+    font-size: 35px;
+    color: #ffffff;
+    float: left;
+  margin-left: 560px;
+  font-family:sans-serif;
+  font-style: normal;
+  line-height: -16px;
+}
+
+.spanText{
+    font-weight: 500px;
+    font-size: 35px;
+    color:#EFB94C;
+    background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;  
+    font-family:sans-serif;
+    font-style: normal;  
+}
+
+.processText2{
+    font-weight:400;
+    font-size: 28px;
+    font-family:sans-serif;
+    font-style: normal;  
+    color: #D1CED4;
+    float: left;
+  margin-left: 560px;
+  margin-top: 1px;
+}
+
+.arrowUp{
+    margin-top: 360px;
+    margin-left: -140px;
+}
+
+.arrowDown{
+    margin-bottom:100px;
+    margin-left: -435px;
+}
+
+.ascendProcessText1{
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: #190A28;
+    width: 250px;
+    height: 100px;
+    border:dashed #EFB94C 2px;
+    border-radius: 17px;
+    padding: 15px;
+    font-family:sans-serif;
+    font-style: normal;  
+    line-height: 25px;
+    font-size: 18px;
+    text-indent: 55px;
+    text-align:left;
+    text-align-last: center;
+    color: #D1CED4;
+}
+
+.ascendProcess1{
+    margin-left: 200px;
+    margin-top: -120px;
+    margin-bottom: 240px;
+    background-color: #EFB94C;
+    border-radius: 50%;
+}
+
+.ascend1Sign{
+    margin-top: -150px;
+    margin-bottom: 300px;
+    margin-left: 200px;
+}
+
+.ascendProcessText2{
+    margin-top: -338px;
+    margin-left: 580px;
+    background-color: #190A28;
+    width: 250px;
+    height: 90px;
+    border:dashed #EFB94C 2px;
+    border-radius: 17px;
+    padding: 8px;
+    line-height: 25px;
+    font-family:sans-serif;
+    font-style: normal;  
+    font-size: 17px;
+    text-indent: 60px;
+    text-align:left;
+    text-align-last: center;
+    color: #D1CED4;
+}
+
+.ascendProcess2{
+    margin-left: 185px;
+    margin-top: -150px;
+    margin-bottom: 235px;
+    background-color: #FF9737;
+    border-radius: 50%;
+}
+
+.ascend2Sign{
+    margin-top: -150px;
+    margin-bottom: 300px;
+    margin-left: 595px;
+}
+
+.ascendProcessText3{
+    margin-top: -338px;
+    margin-left: 950px;
+    background-color: #190A28;
+    width: 250px;
+    height: 90px;
+    border:dashed #EFB94C 2px;
+    border-radius: 17px;
+    padding: 12px;
+    line-height: 25px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-style: normal;  
+    text-align-last:center;
+    text-align: left;
+    text-indent: 63px;
+    color: #D1CED4;
+}
+
+.ascendProcess3{
+    margin-left: 185px;
+    margin-top: -165px;
+    margin-bottom: 238px;
+    background-color: #2BB792;
+    border-radius: 50%;}
+
+.ascend3Sign{
+    margin-top: -148px;
+    margin-bottom: 300px;
+    margin-left: 965px;
+}
+
+.successAscend{
+    margin-top: -600px;
+}
+.successText{
+    margin-top: 220px;
+    margin-left: 550px;
+    font-family:sans-serif;
+    font-style: normal;  
+}
+.spansuccess{
+color:#EFB94C;
+background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+background-clip: text;
+font-family:sans-serif;
+font-style: normal;  
+-webkit-text-fill-color: transparent; 
+-moz-background-clip: text;
+-moz-text-fill-color: transparent;
+}
+.successPara1{
+    margin-left: 410px;
+    font-family:sans-serif;
+    font-style: normal;
+     font-size: 24px;
+ font-weight: lighter;
+ color: #D1CED4;
+ width:760px;
+ text-align-last: center;
+}
+
+.successPhotos{
+    margin-top: 60px;
+    margin-left: 200px;
+}
+
+.AscendSuccess1{
+    margin-top: 60px;
+    margin-left: 50px; 
+}
+.AscendSuccess2{
+    margin-top: -395px;
+    margin-left: 400px;
+}
+.AscendSuccess3{
+    margin-top: -395px;
+    margin-left: 750px;
+}

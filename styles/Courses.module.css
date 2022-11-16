@@ -1,0 +1,290 @@
+.main{
+    background-color: #130421;
+    width:1436px;
+    height:1200px;
+    margin-top: 100px;
+}
+
+.text1{
+margin-left: 550px;
+font-size: 35px;
+font-family:sans-serif;
+font-style: normal;  
+margin-top: -8px;
+}
+ 
+.spanNew{
+color:#000000;
+/* background-color: #EFB94C; */
+font-size: 8px;
+font-family:sans-serif;
+font-style: normal;  
+font-weight: bold;
+border: 1px solid;
+  border-radius: 5px;
+  padding: 8px;
+  background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+  /* background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent; */
+}
+
+.course1{
+    background-color: #ffffff;
+    width:485px;
+    height:315px;
+    border-radius:8px;
+    margin-left: 230px;
+    margin-top: 80px;
+}
+.customerSupport{
+    color:#000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 12px;
+    margin-left: 15px;
+}
+.businessCom{
+    color: grey;
+    font-size:16px;
+    text-align-last:initial;
+    width: 360px;
+    margin-left: 15px;
+    margin-top: -5px;
+    font-family: sans-serif;
+}
+.helloImg{
+    margin-left: 380px;
+    margin-top: -90px;
+    margin-bottom: 35px;
+}
+.phoneImg1{
+    margin-left:-480px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.directCalls1{
+    color: #2e2d2d;
+    margin-left:40px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.rupeesImg1{
+    margin-left:10px;
+    margin-top: -15px;
+    margin-bottom: 5px;
+}
+.salary1{
+    color: #2e2d2d;
+    margin-left:40px;
+    margin-top: -28px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.unionImg1{
+    margin-left:10px;
+    margin-top: -15px;
+    margin-bottom: 5px;
+}
+.jobs1{
+    color: #2e2d2d;
+    margin-left:40px;
+    margin-top: -28px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.course1Btn{
+    width: 460px;
+    height: 60px;
+    margin-left: 12px;
+    color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    background-color: #EFB94C;
+    border: 2px;
+    background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+}
+
+.course2{
+    background-color: #ffffff;
+    width:485px;
+    height:315px;
+    margin-top: -330px;
+    margin-left:760px;
+    border-radius: 8px;
+}
+.SoftwareTesting{
+    color:#000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 12px;
+    margin-left: 15px;
+}
+.ITsector{
+    color: grey;
+    font-size:16px;
+    text-align-last:initial;
+    width: 300px;
+    margin-left: 15px;
+    margin-top: -5px;
+    font-family: sans-serif;
+}
+.testing{
+    margin-left: 390px;
+    margin-top: -70px;
+    margin-bottom: 35px;
+}
+.phoneImg2{
+    margin-left:-470px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.directCalls2{
+    color: #2e2d2d;
+    margin-left:40px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.rupeesImg2{
+    margin-left:10px;
+    margin-top: -15px;
+    margin-bottom: 5px;
+}
+.salary2{
+    color: #2e2d2d;
+    margin-left:40px;
+    margin-top: -28px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.unionImg2{
+    margin-left:10px;
+    margin-top: -15px;
+    margin-bottom: 5px;
+}
+.jobs2{
+    color: #2e2d2d;
+    margin-left:40px;
+    margin-top: -28px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.course2Btn{
+    width: 460px;
+    height: 60px;
+    margin-left: 12px;
+    color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    background-color: #EFB94C;
+    border: 2px;
+    background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+}
+
+.para1{
+margin-left: 480px;
+margin-top: -5px;
+font-size: 25px;
+font-family:sans-serif;
+font-style: normal;  
+color: #D1CED4;
+}
+
+.imgCourse1{
+margin-left: 200px;
+}
+
+.imgCourse2{
+    margin-left: 30px;
+margin-top: 35px;
+}
+
+.container1{
+    margin-top: 60px;
+    border:solid #EFB94C 1px;
+    border-radius: 5px;
+    width: 500px;
+    height: 215px;
+    margin-left: 200px;
+    line-height: 20px;
+}
+
+.text2{
+    margin-left: 550px;
+    font-size: 35px;
+    font-family:sans-serif;
+    font-style: normal;  
+    margin-top: -600px;
+}
+
+.text3{
+    font-size: 22px;
+    font-family:sans-serif;
+    font-style: normal;  
+    margin-left: 10px;
+    color: #D1CED4;
+}
+
+.para2{
+    margin-left: 8px;
+    font-size: 16px;
+    width:400px;
+    font-family:sans-serif;
+    font-style: normal;
+    text-indent:initial;
+    color:#D1CED4;  
+}
+
+.imgCourse3{
+margin-top: -130px;
+margin-bottom: 40px;
+margin-left: 415px;
+background-color: #130421;
+}
+
+.btn{
+color: #EFB94C;
+font-size: 20px;
+font-family:sans-serif;
+font-style: normal;  
+font-weight: bold;
+border:solid #EFB94C 1px;
+border-radius: 5px;
+width: 480px;
+height: 50px;
+margin-left: 10px;
+margin-top: -1px;
+background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+background-clip: text;
+-webkit-text-fill-color: transparent; 
+-moz-background-clip: text;
+-moz-text-fill-color: transparent;
+
+}
+
+.container2{
+     margin-top: -215px;
+    border:solid #EFB94C 1px;
+    border-radius: 5px;
+    width: 500px;
+    height: 215px;
+    margin-left: 740px;
+    line-height: 25px;
+}

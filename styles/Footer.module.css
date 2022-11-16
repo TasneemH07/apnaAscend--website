@@ -1,0 +1,90 @@
+.divLeft{
+margin-left: 150px;
+font-size: 10px;
+font-family: sans-serif;
+font-style:normal;
+margin-top: 120px;
+}
+
+.divCenter{
+    margin-left: 850px;
+    font-size: 10px; 
+    font-family: sans-serif;
+font-style:normal;
+    margin-top: -250px;  
+    line-height: 1.8;    
+}
+
+.divRight{
+    margin-left: 1150px;
+    font-size: 10px;
+     margin-top: -115px;
+     line-height: 1.8;    
+}
+
+
+.textIndia{
+    margin-top: 180px;
+    margin-left: 640px;
+    font-size: 18px;
+    font-family: sans-serif;
+font-style:normal;
+}
+
+.endText{
+    margin-top: 30px;
+    margin-left: 600px;
+    font-size: 18px;
+    font-family: sans-serif;
+font-style:normal;
+    color: grey;
+}
+
+.imgLine{
+    margin-left: 10px;
+}
+
+.imgIcon{
+    margin-left: 10px;
+
+}
+
+.apnaText{
+    font-weight: 500px;
+  font-size: 25px;
+  font-family: sans-serif;
+font-style:normal;
+  color: #ffffff;
+    margin-top: -35px;
+    margin-left: 110px;
+}
+
+.spanAscend{
+    font-weight: 500px;
+  font-size: 25px;
+  color:#EFB94C;
+  font-family: sans-serif;
+font-style:normal;
+background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+background-clip: text;
+-webkit-text-fill-color: transparent; 
+-moz-background-clip: text;
+-moz-text-fill-color: transparent;
+}
+
+.divIcons{
+    margin-top: 50px;
+}
+
+.headText{
+font-size: 15px;
+font-family: sans-serif;
+font-style:normal;
+}
+
+.texts{
+    font-size: 15px;
+    color: grey;
+    font-family: sans-serif;
+font-style:normal;
+}

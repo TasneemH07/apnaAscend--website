@@ -1,0 +1,35 @@
+.mainDiv{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.headText1{
+    font-family: sans-serif;
+}
+.para1{
+    margin-top: -10px;
+    font-family: sans-serif;
+}
+.img{
+    margin-top: 20px;
+}
+.para2{
+    margin-top: 30px;
+    font-family: sans-serif;
+    color:black;
+    background: linear-gradient(to right, #EFB94C, #F9DF7B, #FFF3A6, #F9DF7B, #EFB94C 70%);
+    border-radius: 5px;
+    width:290px;
+    height: 40px;
+    padding: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+.para3{
+    margin-top: 10px;
+    font-family: sans-serif;
+
+}
